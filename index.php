@@ -111,55 +111,9 @@ height:30%;
 
   </style>
 </head>
-<body>
+
 <br><br>
-<header>
-  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner" role="listbox">
-      <!-- Slide One - Set the background image for this slide in the line below -->
-      <div class="carousel-item active" style="background-image: url('img/13.png')">
-        <div class="carousel-caption d-none d-md-block">
-          <h3 class="display-4">The Problem</h3>
-          <p class="lead">Potholes can be more than a nuisance. They can be danger to vehicles. In India, there is an average of ten road defect for every hundred metres road
-</p>
-        </div>
-      </div>
-      <!-- Slide Two - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url('img/15.jpg')">
-        <div class="carousel-caption d-none d-md-block">
-          <h3 class="display-4">Potholes</h3>
-          <p class="lead">Government officials have a duty to maintain the roads, but they can only fill a pothole if they know about it. If you want it repaired, you have to report it.
-</p>
-        </div>
-      </div>
-      <!-- Slide Three - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url('img/14.jpg')">
-        <div class="carousel-caption d-none d-md-block">
-          <h3 class="display-4">What Can I Do?</h3>
-          <p class="lead">Road safety app fill that hole so all road users can have an easy way to report potholes and road defects wherever you find them. Road safety app contacts the right people to get the roads repaired. Officials are generally quick to responds – we know because you’ve told us. Report your pothole now.
-</p>
-        </div>
-      </div>
-    </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-  </div>
-</header>
-
-
-
-<br><br><br>
+<br><br>
 <div class="container" align='center'>
 
 <div class="col-md-12">
@@ -175,6 +129,58 @@ Government officials have a duty to maintain the roads, but they can only fill a
 Road safety app fill that hole so all road users can have an easy way to report potholes and road defects wherever you find them. Road safety app contacts the right people to get the roads repaired. Officials are generally quick to responds – we know because you’ve told us. Report your pothole now.
 </p>
 
+</div>
+</div>
+
+<div class="container" align='center'>
+
+<div class="col-md-12">
+
+<h2>Potholes And Other Pavement Conditions</h2>
+<p>
+<ul>
+  <li>Repair – to restore to safe condition after damage has occurred.  Used for localized problems such as potholes, areas of pavement deterioration, concrete faulting.  Typical repair methods include pothole filling, skin patching, partial depth patching/repair, full depth repair, or a single concrete panel repair.</li>
+  <li>Rehabilitation – to restore to near original condition.  Used for distressed streets where the overall ride has degraded.  Typical methods used are asphalt overlay or multiple concrete panel replacement.</li>
+  <li>Reconstruction – to comprehensively rebuild to a new condition with current criteria. Used to rebuild subgrade, roadway base, new roadway surface, roadway appurtenances, signalization, signage, marking, lighting, trees and plantings, and may also include replacement of utility lines located within the road right of way.</li>
+</ul>
+</p>
+</div>
+</div>
+
+
+
+<div class="container" >
+<div class="row">
+ <div class="col-md-4">
+   <div class="thumbnail">
+     <a href="img/13.png">POTHOLE</a>
+     
+     <a href="img/13.png"><img src="img/13.png" alt="Lights" style="width:100%;height:250px"></a>
+       <div class="caption">
+       </div>
+
+   </div>
+ </div>
+
+
+ <div class="col-md-4">
+   <div class="thumbnail">
+     <a href="img/13.png">FAULTING</a>
+     <a href="img/16.png"><img src="img/16.png" alt="Lights" style="width:100%;height:250px"></a>
+       <div class="caption">
+       </div>
+     </a>
+   </div>
+ </div>
+ <div class="col-md-4">
+   <div class="thumbnail">
+     <a href="img/13.png">LOCALIZED PAVEMENT FAILURE</a>
+     <a href="img/18.jpg"><img src="img/18.jpg" alt="Lights" style="width:100%;height:250px"></a>
+       <div class="caption">
+       </div>
+     </a>
+   </div>
+ </div>
 </div>
 </div>
 

@@ -1,5 +1,7 @@
-READ ME
-Steps of proccess
+Mumbai-Hackathon
+
+Steps of Process:
+
 * user *
 1. open the app, register by adding ur name, email id and password
 2. login in your account
