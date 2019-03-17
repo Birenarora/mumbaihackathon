@@ -212,7 +212,7 @@ session_start();
         <br><br>
         <div class="floating-form">
           <div class="floating-label">
-            <input class="floating-input" type="email" name="email"placeholder=" " required>
+            <input class="floating-input" type="email" name="email" placeholder=" " required="">
             <span class="highlight"></span>
             <label>Email </label>
           </div>
